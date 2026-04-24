@@ -1,3 +1,5 @@
 langchain-huggingface
 langchain-google-genai
+langchain
+langchain-ollama
 dotenv
